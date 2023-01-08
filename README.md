@@ -21,7 +21,7 @@
 
 ## ✨ Sobre mim
 <div align='center'>
-  <b>“Be a lamp, or a lifeboat, or a ladder. Help someone’s soul heal.” — Rumi</b>
+  <b>“No one can give you what you want but yourself."</b>
 </div><br>
 
 Sou estudante de <b>Análise e Desenvolvimento de Sistemas</b> pela Uniasselvi (2022-2025) e atualmente estou estudando <b>JAVA, HTML, CSS e Javascript</b>.
