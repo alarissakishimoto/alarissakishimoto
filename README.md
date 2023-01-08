@@ -21,7 +21,7 @@
 
 ## ✨ Sobre mim
 <div align='center'>
-  <b>"Tudo o que eu falo é de verdade. Na minha idade, a verdade é a minha liberdade" - Antonio Abujamra</b>
+  <b>“Be a lamp, or a lifeboat, or a ladder. Help someone’s soul heal.” — Rumi</b>
 </div><br>
 
 Sou estudante de <b>Análise e Desenvolvimento de Sistemas</b> pela Uniasselvi (2022-2025) e atualmente estou estudando <b>JAVA, HTML, CSS e Javascript</b>.
